@@ -113,3 +113,7 @@ else
     echo "[ERROR] EviAnn failed."
     exit 1
 fi
+
+# -----------------------------
+# Written by: Maria Madrid (2025) 
+# -----------------------------
