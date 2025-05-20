@@ -1,7 +1,7 @@
 #!/bin/bash -l
 
 # ================================================================
-# EviAnn annotation pipeline: FAST setup & execution
+# EviAnn annotation pipeline: Initial setup & quick execution
 #
 # Before running this script, make sure you have the following:
 # 1. A Conda environment called `gene_annotation` with:
